@@ -6,9 +6,9 @@
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <p align="center"> <a href="https://twitter.com/harshsinghcs" target="blank"><img src="https://img.shields.io/twitter/follow/harshsinghcs?logo=twitter&style=for-the-badge" alt="harshsinghcs" /></a> </p>
 
-- 🌱 I’m currently learning **CPP,ReactJS & DSA**
+- 🌱 **JAVA, Angular & Rest API**
 
-- ⚒️ Working on JavaScript and its frameworks
+- ⚒️ Working on Java and its frameworks
 
 - ❤️ Interested in Open Source Projects & love to work remote.
 
