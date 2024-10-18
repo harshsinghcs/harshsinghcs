@@ -5,3 +5,7 @@ Greetings! I'm Harsh Singh, a Java Developer with over 2.9 years of experience i
 I've had the opportunity to work on enterprise applications, contributing to their growth through Spring Boot, microservices, and API development. I enjoy collaborating with cross-functional teams to deliver seamless, secure solutions and am always eager to learn and adopt best practices.
 
 As a lifelong learner, I believe in sharing knowledge and fostering a culture of collaboration and continuous improvement. Let's connect and explore how we can innovate together in the tech space!
+
+## 🚀 Boost Your Skills with Continuous Learning
+I’ve written a blog on the importance of continuous learning for personal and professional growth.  
+📚 [Read the full guide here!](https://harshwillblog.hashnode.dev/continuouslearningguide)
