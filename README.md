@@ -1,5 +1,5 @@
 ## Hi there 👋
-Greetings! I'm Harsh Singh, a Java Developer with over 3 years of experience building scalable backend solutions using Java, Spring Boot, and REST APIs. Passionate about crafting high-performance applications, I focus on creating robust, maintainable code that empowers teams and enhances user experience.
+Greetings! I'm Harsh Singh, a Java Developer with over 3+ years of experience building scalable backend solutions using Java, Spring Boot, and REST APIs. Passionate about crafting high-performance applications, I focus on creating robust, maintainable code that empowers teams and enhances user experience.
 
 I've had the opportunity to work on enterprise applications, contributing to their growth through Spring Boot, microservices, and API development. I enjoy collaborating with cross-functional teams to deliver seamless, secure solutions and am always eager to learn and adopt best practices.
 
