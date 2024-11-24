@@ -17,4 +17,7 @@ As a lifelong learner, I believe in sharing knowledge and fostering a culture of
 - **[Letting Go of the Past: Move Forward and Achieve Success](https://harshwillblog.hashnode.dev/letsmoveforward)**  
   Learn how to overcome past mistakes and build a brighter future. 🌟
 
+  - **The Power of Practice "Turning Knowledge into Mastery"🏹](https://harshwillblog.hashnode.dev/power-of-practice)**  
+  The Power of Practice "Turning Knowledge into Mastery"🏹. 🫶🏻🎉
+
 Stay tuned for more insights and resources! ✨
