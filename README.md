@@ -8,6 +8,10 @@ As a lifelong learner, I believe in sharing knowledge and fostering a culture of
 
 ### Welcome to a collection of my blogs aimed at empowering students and professionals to achieve their best! 🚀
 
+
+- **[Setting Up a Spring Boot Project: A Step-by-Step Guide](https://harshwillblog.hashnode.dev/spring-boot-setup-guide)**  
+  Learn how to easily set up a Spring Boot project with this comprehensive guide! 🚀💻
+
 - **[The Power of Continuous Learning: A Student’s Guide to Success](https://harshwillblog.hashnode.dev/continuouslearningguide)**  
   Explore how continuous learning can drive personal and professional growth. 🫶🏻🎉  
 
