@@ -20,30 +20,26 @@ As a lifelong learner, I believe in sharing knowledge and fostering a culture of
 
 ### Welcome to a collection of my blogs aimed at empowering students and professionals to achieve their best! 🚀
 
-
 - **[Setting Up a Spring Boot Project: A Step-by-Step Guide](https://harshwillblog.hashnode.dev/spring-boot-setup-guide)**  
   Learn how to easily set up a Spring Boot project with this comprehensive guide! 🚀💻
 
-- **[Why Spring Security is Exceptional](https://harshwillblog.hashnode.dev/why-spring-security)**
+- **[Why Spring Security is Exceptional](https://harshwillblog.hashnode.dev/why-spring-security)**  
+  Understanding the power of Spring Security and how it enhances application security. 🔐
 
-  Understanding the power of Spring Security and how it enhances application security.
-
-- **[The Power of Continuous Learning: A Student’s Guide to Success](https://harshwillblog.hashnode.dev/continuouslearningguide)** 
-
-  Explore how continuous learning can drive personal and professional growth. 🫶🏻🎉  
+- **[The Power of Continuous Learning: A Student’s Guide to Success](https://harshwillblog.hashnode.dev/continuouslearningguide)**  
+  Explore how continuous learning can drive personal and professional growth. 🫶🏻🎉
 
 - **[Master Your Study Game: Build Powerful Learning Habits](https://harshwillblog.hashnode.dev/study-game-guide)**  
-  Unleash your full potential with effective study strategies. 📚  
+  Unleash your full potential with effective study strategies. 📚
 
 - **[Letting Go of the Past: Move Forward and Achieve Success](https://harshwillblog.hashnode.dev/letsmoveforward)**  
-  Learn how to overcome past mistakes and build a brighter future. 🌟  
+  Learn how to overcome past mistakes and build a brighter future. 🌟
 
 - **[The Power of Practice: Turning Knowledge into Mastery](https://harshwillblog.hashnode.dev/power-of-practice)**  
   Discover how consistent practice transforms skills into expertise. 🏹✨
 
-- **[The Power of Self-Confidence: Believe in Yourself 🌟](https://harshwillblog.hashnode.dev/believe-in-yourself)**  
-  Unleash Your Confidence, Unlock Your Potential! 🏹
-  
+- **[The Power of Self-Confidence: Believe in Yourself](https://harshwillblog.hashnode.dev/believe-in-yourself)**  
+  Unleash Your Confidence, Unlock Your Potential! 🌟🏹
 
 ## Stay Tuned!  
 More insights and resources coming soon! ✨
